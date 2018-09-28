@@ -1,1 +1,1 @@
-bump commit for Louhi v5
+bump commit for Louhi v6
